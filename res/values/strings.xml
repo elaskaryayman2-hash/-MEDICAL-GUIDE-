@@ -1,1 +1,7 @@
+git init
+git add .
+git commit -m "Add Medical Guide App features, UI, GPS integration, and multilingual support"
+git branch -M main
+git remote add origin https://github.com/اسم_المستخدم_الخاص_بك/Medical-Guide-App.git
+git push -u origin main
 
